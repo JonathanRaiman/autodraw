@@ -1,0 +1,13 @@
+.DS_Store
+*.npy
+samples/
+samples_digits/
+*.pyc
+.ipynb_checkpoints
+._.DS_Store
+*.gz
+*.pkl
+*.zip
+
+
+
